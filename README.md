@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pratik Chaudhari 
 
-<a href="https://app.daily.dev/pratikchaudhari"><img src="https://github.com/pratikgchaudhari/pratikgchaudhari/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/pratikchaudhari"><img src="https://github.com/pratikgchaudhari/pratikgchaudhari/blob/main/devcard.svg" width="400" alt="Pratik Chaudhari's Dev Card"/></a>
 
 <!--
 **pratikgchaudhari/pratikgchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
