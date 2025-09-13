@@ -10,19 +10,20 @@ In the wild world of software architecture, I’ve navigated both the intricate 
 
 Let’s push the boundaries and create something truly extraordinary together!
 
+### Acknowledges
+
+---
+
+| People                                                                                                                                                     | Companies                                                                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [Linus Trovalds](https://github.com/torvalds) for creating [Linux](https://github.com/torvalds/linux)                                                      | [Docker](https://github.com/docker) for bringing [Linux Containers](https://linuxcontainers.org) into mainstream development |
+ | [DHH](https://github.com/DHH) for creating [Omarchy](https://omarchy.org), [Ruby on Rails](https://rubyonrails.org), and [Kamal](https://kamal-deploy.org) | [Microsoft](https://github.com/microsoft) for creating [VSCode](https://code.visualstudio.com)                               |
+| [Evan You](https://github.com/yyx990803) for creating [Vue.js](https://vuejs.org) and [Vite](https://vite.dev)                                             | [JetBrains](https://github.com/jetbrains) for some one of the best IDEs                                                      |
+
+### Oh, and one more thing... 
+
+---
+
+I'm an avid reader. Think I'm bluffing? Take a look at my [DailyDev](https://github.com/dailydotdev/daily?tab=readme-ov-file) DevCard below:
+
 <a href="https://app.daily.dev/pratikchaudhari"><img src="https://github.com/pratikgchaudhari/pratikgchaudhari/blob/main/devcard.svg" width="400" alt="Pratik Chaudhari's Dev Card"/></a>
-
-<!--
-**pratikgchaudhari/pratikgchaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
