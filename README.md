@@ -10,6 +10,20 @@ In the wild world of software architecture, I’ve navigated both the intricate 
 
 Let’s push the boundaries and create something truly extraordinary together!
 
+---
+
+![](https://github-readme-stats.vercel.app/api?username=pratikgchaudhari&show_icons=true&theme=tokyonight&border_radius=10)
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikgchaudhari&layout=pie&show_icons=true&theme=tokyonight&border_radius=10)
+
+---
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratikgchaudhari&theme=tokyonight&border_radius=10)
+
+---
+
 ### Acknowledges
 
 ---
