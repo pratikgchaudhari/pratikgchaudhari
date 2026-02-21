@@ -29,3 +29,30 @@ Let’s push the boundaries and create something truly extraordinary together!
 I'm an avid reader. Think I'm bluffing? Take a look at my [DailyDev](https://github.com/dailydotdev/daily?tab=readme-ov-file) DevCard below:
 
 <a href="https://app.daily.dev/pratikchaudhari"><img src="https://github.com/pratikgchaudhari/pratikgchaudhari/blob/main/devcard.svg" width="400" alt="Pratik Chaudhari's Dev Card"/></a>
+
+---
+
+Still not convinced? Take a look at the list of my favorite books (which keeps growing btw!):
+
+| Sr No. | Book                                                                                                                                                                                                             |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/9352135245)      |
+| 2.     | [Effective Java](https://www.amazon.in/Effective-Java-Joshua-Bloch-ebook/dp/B078H61SCH)                                                                                                                          |
+| 3.     | [Java Concurrency in Practice](https://www.amazon.in/Java-Concurrency-Practice-CONCURRENCY-PRACT-ebook/dp/B004V9OA84/)                                                                                           |
+| 4.     | [Apple in China: The Capture of the World's Greatest Company](https://www.amazon.in/Apple-China-Capture-Greatest-Company-ebook/dp/B0DCGGGHS4/)                                                                   |
+| 5.     | [It Doesn’t Have to Be Crazy at Work](https://www.amazon.in/Doesnt-Have-Be-Crazy-Work/dp/B07GB982K7/)                                                                                                            |
+| 6.     | [Remote: Office Not Required](https://www.amazon.in/Remote-Office-Not-Required/dp/B079B6L198/)                                                                                                                   |
+| 7.     | [ReWork: Change the Way You Work Forever](https://www.amazon.in/dp/0091929784/)                                                                                                                                  |
+| 8.     | [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.in/Head-First-Design-Patterns-Object-Oriented/dp/9385889753/)                                     |
+| 9.     | [When McKinsey Comes to Town: The Hidden Influence of the World's Most Powerful Consulting Firm](https://www.amazon.in/dp/152911277X/)                                                                           |
+| 10.    | [The Clean Coder](https://www.amazon.in/dp/813178696X/)                                                                                                                                                          |
+| 11.    | [Working Backwards](https://www.amazon.in/Working-Backwards-Insights-Stories-Secrets/dp/1529033845/)                                                                                                             |
+| 12.    | [Funding Your Startup and Other Nightmare](https://www.amazon.in/dp/0143450387/)                                                                                                                                 |
+| 13.    | [Let's Build a Company](https://www.amazon.in/dp/0143449834/)                                                                                                                                                    |
+| 14.    | [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.in/No-Rules-Netflix-Culture-Reinvention/dp/0753560968/)                                                                              |
+| 15.    | [No Filter: The Inside Story of Instagram](https://www.amazon.in/dp/1847942547/)                                                                                                                                 |
+| 16.    | [One Indian Girl](https://www.amazon.in/Chetan-Bhagat-Book-Indian-Girl/dp/B0GCZJYB9T/)                                                                                                                           |
+| 17.    | [Emotional Vampires: Dealing With People Who Drain You Dry](https://www.amazon.in/Emotional-Vampires-Dealing-People-Drain-ebook/dp/B000QCTO9U/)                                                                  |
+| 18.    | [American Kingpin: Catching the Billion-Dollar Baron of the Dark Web](https://www.amazon.in/dp/0753547007/)                                                                                                      |
+| 19.    | [Black Edge: Inside Information, Dirty Money, and the Quest to Bring Down the Most Wanted Man on Wall Street](https://www.amazon.in/Black-Edge-Inside-Information-Wanted-ebook/dp/B07593WWJR/)                   |
+| 20.    | [Bad Blood: Secrets and Lies in a Silicon Valley Startup: The shocking true story of Elizabeth Holmes and the Theranos scandal](https://www.amazon.in/Bad-Blood-Secrets-Elizabeth-Theranos-ebook/dp/B0BX47R7QW/) |
