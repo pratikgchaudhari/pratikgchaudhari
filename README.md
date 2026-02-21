@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Pratik Chaudhari 
+### Hey there! 👋 I'm Pratik
 
 I’m a Senior Software Engineer with nearly a decade of experience, turning complex challenges into elegant, scalable solutions that stand the test of time. I thrive on tackling tough problems head-on, bringing my full-stack development skills to the forefront with relentless enthusiasm.
 
