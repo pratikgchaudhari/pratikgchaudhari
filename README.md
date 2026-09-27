@@ -56,3 +56,7 @@ Still not convinced? Take a look at the list of my favorite books (which keeps g
 | 18.    | [American Kingpin: Catching the Billion-Dollar Baron of the Dark Web](https://www.amazon.in/dp/0753547007/)                                                                                                      |
 | 19.    | [Black Edge: Inside Information, Dirty Money, and the Quest to Bring Down the Most Wanted Man on Wall Street](https://www.amazon.in/Black-Edge-Inside-Information-Wanted-ebook/dp/B07593WWJR/)                   |
 | 20.    | [Bad Blood: Secrets and Lies in a Silicon Valley Startup: The shocking true story of Elizabeth Holmes and the Theranos scandal](https://www.amazon.in/Bad-Blood-Secrets-Elizabeth-Theranos-ebook/dp/B0BX47R7QW/) |
+| 21.    | [Empire of AI: Inside the reckless race for total domination](https://www.amazon.in/Empire-AI-Inside-reckless-domination/dp/0241678927)                                                                          |
+| 22.    | [Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass](https://www.amazon.in/Ghost-Work-Silicon-Building-Underclass/dp/1328566242/)                                                      |
+| 23.    | [The New Money Strategy: The Modern Guide to Rational, Long-Term Investing](https://www.amazon.in/New-Money-Strategy-Long-Term-Investing/dp/1394369840/)                                                         |
+
